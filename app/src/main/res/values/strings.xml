@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IcaoDocReader</string>
+
+    <string name="doc_number_label">Doc number</string>
+    <string name="dob_label">DOB</string>
+    <string name="doe_label">DOE</string>
+    <string name="continue_button_label">Continue</string>
+
+    <string name="place_doc_on_terminal">Please place your Doc on terminal</string>
+    <string name="reading_document_data">Reading document data…</string>
+    <string name="first_name_label">First Name: %1$s</string>
+    <string name="last_name_label">Last Name: %1$s</string>
+    <string name="gender_label">Gender: %1$s</string>
+    <string name="state_label">State: %1$s</string>
+    <string name="nationality_label">Nationality: %1$s</string>
+    <string name="passive_auth_label">Passive Auth: %1$s</string>
+    <string name="chip_auth_label">Chip Auth: %1$s</string>
+    <string name="auth_pass">Pass</string>
+    <string name="auth_failed">Failed</string>
+
+</resources>
